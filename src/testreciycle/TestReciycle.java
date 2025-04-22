@@ -12,30 +12,35 @@ import java.util.Scanner;
  */
 public class TestReciycle {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
         
         
         System.out.println("Hola mundo, ingrese su nombre ");
         
-        Integer variableEntero = 21;
+        Integer varInt = 2;
+        int var = 2;
+        
+        System.out.println(varInt.toString());
+        System.out.println("Este es un num int " + var);
+        
+        
+        
+        
         Float var1;
         Double var2;
         String var3;
-        Boolean
-        // realizar una encenta ;
+        
+        // realizar una encuesta ;
                 
                 //Nombre
                 // carrera
                 //edad
                 //telefono
                 
-                
-        System.out.println(variableEntero.toString());
+          
         
-        System.out.println("este es un num " + variableEntero);
+        
         
     }
     
