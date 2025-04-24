@@ -16,13 +16,7 @@ public class TestReciycle {
     public static void main(String[] args) {
         
         
-        System.out.println("Hola mundo, ingrese su nombre ");
-        
-        Integer varInt = 2;
-        int var = 2;
-        
-        System.out.println(varInt.toString());
-        System.out.println("Este es un num int " + var);
+        //1. hola
         
         
         
