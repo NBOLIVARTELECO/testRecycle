@@ -37,6 +37,10 @@ public class TestReciycle {
                 // carrera
                 //edad
                 //telefono
+        //Objetivo de clase,  manejar las operaciones basicas de
+        // github, push, commit, pull, rebase
+        
+        
                 
           
         
