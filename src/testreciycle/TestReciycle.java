@@ -17,6 +17,7 @@ public class TestReciycle {
         
         
         //1. hola
+        //2. hola carlos
         
         
         
@@ -32,7 +33,7 @@ public class TestReciycle {
                 //edad
                 //telefono
         //Objetivo de clase,  manejar las operaciones basicas de
-        // github, push, commit, pull, rebase
+        // github, push, commit, pull, rebase, merge
         
         
                 
