@@ -34,6 +34,8 @@ public class TestReciycle {
         //telefono
         //Objetivo de clase,  manejar las operaciones basicas de
         // github, push, commit, pull, rebase, merge
+
+       //prueba git rebase desde servidor
         
         // prueba lcal 
                 
