@@ -28,10 +28,10 @@ public class TestReciycle {
         
         // realizar una encuesta ;
                 
-                //Nombre
-                // carrera
-                //edad
-                //telefono
+        //Nombre
+        // carrera
+        //edad
+        //telefono
         //Objetivo de clase,  manejar las operaciones basicas de
         // github, push, commit, pull, rebase, merge
         
